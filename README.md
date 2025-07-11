@@ -17,6 +17,10 @@ A powerful, minimalistic tool to automatically organize your messy files into we
 
 ## 🚀 Getting Started
 
+##IMAGE
+
+![Logo](public/file-ORG.png)
+
 ### Prerequisites
 
 - Python 3.x installed

@@ -19,7 +19,7 @@ A powerful, minimalistic tool to automatically organize your messy files into we
 
 ##IMAGE
 
-![Logo](public/file-ORG.png)
+![Logo](assest/file-ORG.png)
 
 ### Prerequisites
 
